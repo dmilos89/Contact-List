@@ -11,4 +11,6 @@ Contact form fields:
 -Email
 -Phone Number
 -Status (Active/Inactive)
-You can run this application if you copy files to your local server and in your browser type https://address/Main.html or run copy this link in your browser https://jsfiddle.net/dmilos89/jme7d3z6/
+You can run this application if you:
+1) Copy files to your local server and run https://address/location/Main.html 
+2) Click on this link https://jsfiddle.net/dmilos89/jme7d3z6/
