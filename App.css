@@ -1,0 +1,8 @@
+div.container {
+	padding-top: 20px;
+}
+.message-submit {
+    display: none;
+    padding: 5px 15px !important;
+    margin: 0px !important;
+}
